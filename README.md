@@ -1,4 +1,4 @@
-# cookie-recipe.html
+# cookie-recipe
 
 by Mary Atieno
 
